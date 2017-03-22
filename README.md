@@ -1,2 +1,2 @@
-# hello-world
-new repository
+# Game
+a sample text-based monster fighting game 
